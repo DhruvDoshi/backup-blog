@@ -2,7 +2,7 @@
 title: The Fundamentals of Machine Learning
 author: Dhruv Doshi
 date: 2022-02-01 11:33:00 +0800
-categories: [Artificial Intelligence]
+categories: [Artificial Intelligence, Machine Learning]
 tags: [Artificial Intelligence, Machine Learning]
 math: true
 mermaid: true
