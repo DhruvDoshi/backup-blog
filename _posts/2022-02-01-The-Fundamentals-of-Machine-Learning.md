@@ -1,5 +1,5 @@
 ---
-title: The Fundalmentals of Machine Learning
+title: The Fundamentals of Machine Learning
 author: Dhruv Doshi
 date: 2022-02-01 11:33:00 +0800
 categories: [Artificial Intelligence]
@@ -55,7 +55,9 @@ Machine Learning involves the use of algorithms and statistical models to analyz
    - **Algorithms**: Q-Learning, Deep Q-Networks (DQN), Policy Gradient Methods.
    - **Applications**: Robotics, game playing (e.g., AlphaGo), and automated trading.
 
-<center><img src="https://imgur.com/a/jzPicBf" style="height:40%; width:80%;"></center><br>
+    <!-- <center><img src="https://imgur.com/a/jzPicBf" style="height:40%; width:80%;"></center><br> -->
+<a href='https://postimg.cc/23sBq56q' target='_blank'><img src='https://i.postimg.cc/bNJ0BDfR/image.png' border='0' alt='image'/></a>
+
 
 ## Key Machine Learning Algorithms
 
