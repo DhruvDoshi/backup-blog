@@ -70,6 +70,8 @@ Backpropagation adjusts the weights and biases to reduce the error. It involves 
 
 CNNs are specialized for processing grid-like data, such as images. They use convolutional layers to detect local patterns and pooling layers to reduce dimensionality. Applications include image recognition and video analysis.
 
+<center><img src="https://postimg.cc/YGpBDYb4" style="height:40%; width:80%;"></center><br>
+
 <a href='https://postimg.cc/YGpBDYb4' target='_blank'><img src='https://i.postimg.cc/YGpBDYb4/image.png' border='0' alt='image'/></a>
 
 ### Recurrent Neural Networks (RNNs)
